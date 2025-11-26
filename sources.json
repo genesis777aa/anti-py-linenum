@@ -1,0 +1,100 @@
+{
+  "sources": [
+    {
+      "id": "src-001",
+      "title": "YouTube Embed: iUohO2MSot8",
+      "url": "https://www.youtube-nocookie.com/embed/iUohO2MSot8?si=t_d5zY5cZ19gy7lL",
+      "sha256": null,
+      "requires_login": false,
+      "active": false
+    },
+    {
+      "id": "src-002",
+      "title": "YouTube Embed: Wt7b6qA8-gI",
+      "url": "https://www.youtube-nocookie.com/embed/Wt7b6qA8-gI?si=DmXbxYoADpi_n96Q",
+      "sha256": null,
+      "requires_login": false,
+      "active": false
+    },
+    {
+      "id": "src-003",
+      "title": "ChessboardJS Example",
+      "url": "https://chessboardjs.com/examples/5002",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-004",
+      "title": "YouTube Embed: vhkXX6ptSM0",
+      "url": "https://www.youtube-nocookie.com/embed/vhkXX6ptSM0?si=Af-Ccm__EF9f9ZTh",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-005",
+      "title": "Math Playground: Logic & Puzzle Games",
+      "url": "https://www.mathplayground.com/index_find.html",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-006",
+      "title": "Khan Academy",
+      "url": "https://www.khanacademy.org/",
+      "sha256": null,
+      "requires_login": true,
+      "active": true
+    },
+    {
+      "id": "src-007",
+      "title": "Math Notepad",
+      "url": "https://mathnotepad.com/",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-008",
+      "title": "MathsPad Construction Tool",
+      "url": "https://www.mathspad.co.uk/i2/construct.php",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-009",
+      "title": "LEGO Spike Essential",
+      "url": "https://spike.legoeducation.com/essential/lobby/",
+      "sha256": null,
+      "requires_login": "optional",
+      "active": true
+    },
+    {
+      "id": "src-010",
+      "title": "YouTube Playlist: PLAm79f_jTmud_PemsL0CzLUC0mmiBHMJl",
+      "url": "https://www.youtube-nocookie.com/embed/videoseries?si=MXMkMoL9YDKrPah9&list=PLAm79f_jTmud_PemsL0CzLUC0mmiBHMJl",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-011",
+      "title": "Canva Site",
+      "url": "https://07994853553.my.canva.site/",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    },
+    {
+      "id": "src-012",
+      "title": "YouTube Playlist: PLFXOdAaR9MjtsduPYr2Hagpv3h_Zb5mDJ",
+      "url": "https://www.youtube-nocookie.com/embed/videoseries?si=2noVu_XYR78KdxUt&list=PLFXOdAaR9MjtsduPYr2Hagpv3h_Zb5mDJ",
+      "sha256": null,
+      "requires_login": false,
+      "active": true
+    }
+  ]
+}
