@@ -2,9 +2,9 @@
 
 ## Overview: 
 Cython-Based Fetcher
-* 🦾⚙️🔧 
-</>
-⏹️
+* 🦾⚙️🔧    
+</>   
+⏹️🦫
 
 <!-- ABOUT THE PROJECT -->
 ## 모 Purpose: 
