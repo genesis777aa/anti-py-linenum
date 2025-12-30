@@ -8,9 +8,9 @@ Cython-Based Fetcher
 
 <!-- ABOUT THE PROJECT -->
 ## 모 Purpose: 
-Fetch content from a list of URLs (from sample JSON), compute SHA-256 hashes, and store the content locally.
-Automatically cleans cache and other residue data.
-Passed SVG-glue resilience >mot< the genetic algorithm testing 🧪🚇
+* Fetch content from a list of URLs (from sample JSON), compute SHA-256 hashes, and store the content locally.
+* Automatically cleans cache and other residue data.
+* Passed SVG-glue resilience >mot< the genetic algorithm testing 🧪🚇
  
 _________________________
 ### Requirements:
