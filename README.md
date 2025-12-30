@@ -4,16 +4,19 @@
 Cython-Based Fetcher
 * 🦾⚙️🔧 
 </>
+⏹️
 
 <!-- ABOUT THE PROJECT -->
 ## 모 Purpose: 
 Fetch content from a list of URLs (from sample JSON), compute SHA-256 hashes, and store the content locally.
+Automatically cleans cache and other residue data.
+Passed SVG-glue resilience >mot< the genetic algorithm testing 🧪🚇
  
 _________________________
 ### Requirements:
 * 𓏠 Python 3.8+
 * 𓏠 Cython
-* 𓏠 'requests', 'schedule'
+* 𓏠 'requests', 'schedule' <==> typeˆscript/s, spreadsheets, TO·DO list, etc.
 -------------------------
  
  
@@ -35,7 +38,7 @@ fetcher_tool/
 │   ├── core.pyx        # dApp main logic
 │   ├── scheduler.py    # Optional daily run logic
 │   └── config.py       # Settings toggle
-├── sources.json        # JSON config for data retrieve
+├── sources.json        # JSON config for data redde
 └── storage/            # Folder for downloaded content + bug-cache.cc
 ├── cli.py              # Command-line interface
 ├── setup.py            # Install script
@@ -45,7 +48,7 @@ fetcher_tool/
 ```
 
 ## 🧪 Configuration
-To edit sources.json in order to manage your data root, each entry should include:
+To edit sources.json [{$$algoMotion$$}] to manage your data root, each entry should include:
 ```
 {
   "id": "src-001",
@@ -74,7 +77,7 @@ fetcher              # To run once
 ```
 
 ### 🧰 Development
-To recompile Cython:
+To recompile Cython (always in a separate file, never :
 ```
 python setup.py build_ext --inplace
 ```
@@ -90,7 +93,8 @@ python setup.py build_ext --inplace
        ``--|__|--..-'`.__|⠀⠀
 More open-source tools [Apache/Hadoop GitBox*]:
 * https://git.apache.org/repos/asf
-* https://cwiki.apache.org/confluence/display/PIG/PigTools
+* [https://cwiki.apache.org/confluence/display/PIG/PigTools](https://www.w3.org/TR/SVG/struct.html)
+* https://en.wikipedia.org/wiki/Genetic_algorithm {testing_dns_glue_jre}
 __________________
 $$Genesis24AG$$
 ###
