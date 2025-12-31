@@ -77,7 +77,7 @@ fetcher              # To run once
 ```
 
 ### 🧰 Development
-To recompile Cython (always in a separate file, never :
+To recompile Cython (always in a separate file, never with !Python::path! to prevent unwanted acceleration or custom logic development):
 ```
 python setup.py build_ext --inplace
 ```
