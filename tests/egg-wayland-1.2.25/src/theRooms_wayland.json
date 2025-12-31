@@ -1,0 +1,105 @@
+$BrickStudio
+/Applications/theRooms🪟
+{
+  "PORTALS": {
+    "rooms": [
+      {
+        "name": "theRooms",
+        "elements": [
+          "SafeRoom🚪",
+          "sensoryRoom🚪",
+          "ParadiseIsland🚪",
+          "Playtime🚪",
+          "Garden🚪",
+          "MusicRoom🚪",
+          "HangarRoom🚪",
+          "Library🚪",
+          "AlternativeRoom🚪"
+        ],
+        "details": {
+          "SafeRoom🚪": {
+            "room_id": 1,
+            "description": "🚪 ~ 🛜 Motherboard Block 🌻",
+            "hashtags": ["#locked", "#genesis24AG", "#SafeRoom"],
+            "links": [
+              "https://emojiterra.com/white-large-square/"
+            ]
+          },
+          "sensoryRoom🚪": {
+            "room_id": 2,
+            "description": "🚪 ~ 🌻 A room designed for relaxation, unwinding and sensory experiences that help with grounding oneself 🌌💧",
+            "hashtags": ["#sensoryRoom", "#LiquidLab"],
+            “folder”: [
+              "🔳”
+          },
+          "ParadiseIsland🚪": {
+            "room_id": 3,
+            "description": "🚪 ~ 🏄 A playful paradise for developing minds, filled with fun & educational activities 🧸🏝️",
+            "hashtags": ["#ParadiseIsland", "#Playtime", "#Kindergarten"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "Playtime🚪": {
+            "room_id": 4,
+            "description": "🚪 ~ 🪁🛝 A space for playful learning with sandbox activities and games 🧩🪴",
+            "hashtags": ["#Playtime", "#sandbox", "#training"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "Garden🚪": {
+            "room_id": 5,
+            "description": "🚪 ~ 🌿🌿 An outdoor garden and atrium for relaxation and nature connection 🌸🌳🍃",
+            "hashtags": ["#Garden", "#atrium"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "MusicRoom🚪": {
+            "room_id": 6,
+            "description": "🚪 ~ 🪉 A creative space for musical and sound exploration 🎶🎧🪈",
+            "hashtags": ["#MusicRoom", "#guz3", "#guz6", "#guz9", "#🎼"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "HangarRoom🚪": {
+            "room_id": 7,
+            "description": "🚪 ~ 🏠🔒 An emergency container room with secured access 🆘🚨🐨",
+            "hashtags": ["#HangarRoom", "#Error02", "#emergencyButton"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "Library🚪": {
+            "room_id": 8,
+            "description": "🚪 ~ 📚 A quiet reading room filled with books and stories 🔖📕📙📗📘",
+            "hashtags": ["#Library", "#readingRoom", "#📖"],
+            “folder”: [
+              "🔳”
+            ]
+          },
+          "AlternativeRoom🚪": {
+            "room_id": 9,
+            "description": "🚪 ~ 🔎 A creative space for exploratory activities that satisfy curiosity 💡📝📐",
+            "hashtags": ["#AlternativeRoom", "#exploringTime", "#🔍"],
+            “folder”: [
+              "🔳”
+            ]
+          }
+        }
+      }
+    ],
+    "hashtags": [
+      "#g",
+      "#guz3<>guz6<>guz9",
+      "#guz7<>guz11",
+      "#gg",
+      "#GG",
+      "#GENESIS24⭕",
+      "#PORTALS",
+      "#locked"
+    ]
+  }
+}
