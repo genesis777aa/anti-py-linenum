@@ -5,9 +5,7 @@ Overview
 --------
 
 _testingTesting.str
-
-https://github.com/NVIDIA/eglexternalplatform
-
+//driver-hook
 
 Building and Installing the library
 -----------------------------------
